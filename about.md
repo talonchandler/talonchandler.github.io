@@ -1,10 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
+![Image of Talon]({{ site.url }}/images/talon.jpg)
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+**I'm Talon Chandler.**
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+I'll be matriculating at the [University of
+Chicago](http://www.uchicago.edu/) in September 2015 for a PhD in [Medical
+Physics](http://medicalphysics.uchicago.edu/).
 
-This theme is made by me. You have a nice day. ♥
+I graduated from the [University of British Columbia](https://www.ubc.ca/) in
+2015 with a BASc in [Engineering Physics](http://www.engphys.ubc.ca/).
+
+I particularly enjoy physics, reading, and ultramarathon running. 

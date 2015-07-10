@@ -9,7 +9,7 @@ body {
   color: #303030;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  font-size: 13px;
+  font-size: 16px;
   line-height: 19px;
   padding: 0;
   margin: 0; }
@@ -117,7 +117,7 @@ footer {
     #container .block a.main {
       display: inline-block;
       vertical-align: baseline;
-      zoom: 1;
+      zoom: 1.1;
       *display: inline;
       *vertical-align: auto;
       padding: 2px 2px;
@@ -159,7 +159,7 @@ a, .as-link {
   -ms-transition: color 0.3s;
   -o-transition: color 0.3s;
   transition: color 0.3s; }
-  a.main, a:hover, .as-link.main, .as-link:hover {
+  a:hover, .as-link.main, .as-link:hover {
     color: #1d5884;
     background-image: url(/images/line.png);
     background-repeat: repeat-x;

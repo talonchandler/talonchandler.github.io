@@ -9,7 +9,7 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         About
     url:          /about
-  - name:         Blog
+  - name:         Writing
     url:          /
   - name:	  Contact
     url:	  /contact
@@ -20,5 +20,4 @@ highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
 redcarpet:
-  extensions:
-    - smart
+    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]

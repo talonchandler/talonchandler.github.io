@@ -16,5 +16,5 @@ I graduated from the [University of British Columbia](https://www.ubc.ca/) in
 2015 with a BASc in [Engineering Physics](http://www.engphys.ubc.ca/).
 
 I'm interested in physics, [bees](http://scandiahoney.com/),
-and [ultramarathon running](http://ultrasignup.com/results_participant.aspx?fname=Talon&lname=Chandler)
+and [ultramarathon running](http://ultrasignup.com/results_participant.aspx?fname=Talon&lname=Chandler).
 

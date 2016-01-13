@@ -4,7 +4,7 @@ layout: page
 
 |  |  |
 | ------------- | ------------- |
-| **Address:** | 2N-5303 South Ellis St. |
+| **Address:** | 2N-1003 East 53rd Street |
 | | Chicago, IL |
 | | 60615 |
 | **Phone:**  | (312) 978-1901  |

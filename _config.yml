@@ -11,6 +11,8 @@ links:
     url:          /
 #  - name:         Writing
 #    url:          /writing
+#  - name: 	  Posts
+#    url:	  /posts
   - name:	  Contact
     url:	  /contact
   - name:	  CV

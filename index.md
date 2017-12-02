@@ -14,7 +14,11 @@ I'm interested in physics, [bees](http://scandiahoney.com/), and [ultramarathon 
 
 <span class="bold">News</span>
 
-2017-12-01: My work on determining the orientation of single molecules with multi-view polarized light microscopes appeared in [Optics Express](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-25-31309&origin=search). 
+2017-12-01: My work on determining the orientation of single molecules with multi-view polarized light microscopes appeared in Optics Express. [More...](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-25-31309&origin=search).
+
+2017-11-01: I co-presented a talk titled "Mapping molecular orientation using polarized light microscopy" with Rudolf Oldenbourg at the Stanford SCIEN Colloquium. [More...](https://talks.stanford.edu/scien/scien-colloquium-series/#2017)
+
+2017-08-01: I've moved from Chicago to Woods Hole, MA to work with Rudolf Oldenbourg at the Marine Biological Laboratory. I'll move back to Chicago in ~1 year.
 
 [medphys]: http://medicalphysics.uchicago.edu/
 [chicago]: https://www.uchicago.edu/

@@ -4,22 +4,21 @@ layout: page
 
 ![Talon Chandler]({{ site.url }}/images/talon-2017.png)
 
-I'm [Talon](https://books.google.com/books?id=pD6arNyKyi8C&pg=PT61&lpg=PT61&dq=%22Just+at+that+moment+the+Lord+of+the+Eagles+swept+down+from+above,+seized+him+in+his+talons,+and+was+gone.%22&source=bl&ots=2kfe5990uE&sig=8_ISf65WbcgOCJikcD5oP2Y2FXk&hl=en&sa=X&ved=0ahUKEwjO6IfYzvrTAhVLjlQKHXy0CXQQ6AEIKzAB#v=onepage&q=%22Just%20at%20that%20moment%20the%20Lord%20of%20the%20Eagles%20swept%20down%20from%20above%2C%20seized%20him%20in%20his%20talons%2C%20and%20was%20gone.%22&f=false).
+Hi, I'm [Talon](https://books.google.com/books?id=pD6arNyKyi8C&pg=PT61&lpg=PT61&dq=%22Just+at+that+moment+the+Lord+of+the+Eagles+swept+down+from+above,+seized+him+in+his+talons,+and+was+gone.%22&source=bl&ots=2kfe5990uE&sig=8_ISf65WbcgOCJikcD5oP2Y2FXk&hl=en&sa=X&ved=0ahUKEwjO6IfYzvrTAhVLjlQKHXy0CXQQ6AEIKzAB#v=onepage&q=%22Just%20at%20that%20moment%20the%20Lord%20of%20the%20Eagles%20swept%20down%20from%20above%2C%20seized%20him%20in%20his%20talons%2C%20and%20was%20gone.%22&f=false).
 
-I'm a third year Ph.D. student studying [Medical
-Physics](http://medicalphysics.uchicago.edu/) at the [University of
-Chicago](http://www.uchicago.edu/). I'm developing polarized light microscopes
-with [Dr. Patrick La
-Riviere](https://radiology.uchicago.edu/directory/patrick-la-riviere) and
-[Dr. Rudolf
-Oldenbourg](http://www.mbl.edu/bell/current-faculty/oldenbourg-lab/). I'm
-currently working at the [Marine Biological Laboratory](http://www.mbl.edu/) in
-Woods Hole, MA.
+I'm a third year Ph.D. student studying [Medical Physics][medphys] at the [University][chicago] [of Chicago][chicago]. I'm developing polarized light microscopes with [Dr. Patrick La][patrick] [Rivi&egrave;re][patrick] and [Dr. Rudolf Oldenbourg](http://www.mbl.edu/bell/current-faculty/oldenbourg-lab/). I'm currently living and working at the [Marine][mbl] [Biological Laboratory][mbl] in Woods Hole, MA.
 
-I graduated from the [University of British Columbia](https://www.ubc.ca/) in
-2015 with a B.A.Sc. in [Engineering Physics](http://www.engphys.ubc.ca/).
+I graduated from the [University of British Columbia][ubc] in 2015 with a B.A.Sc. in [Engineering Physics][fizz].
 
-I'm interested in physics, [bees](http://scandiahoney.com/),
-and [ultramarathon running](http://ultrasignup.com/results_participant.aspx?fname=Talon&lname=Chandler).
+I'm interested in physics, [bees](http://scandiahoney.com/), and [ultramarathon running](http://ultrasignup.com/results_participant.aspx?fname=Talon&lname=Chandler).
 
+<span class="bold">News</span>
 
+2017-12-01: My work on determining the orientation of single molecules with multi-view polarized light microscopes appeared in [Optics Express](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-25-31309&origin=search). 
+
+[medphys]: http://medicalphysics.uchicago.edu/
+[chicago]: https://www.uchicago.edu/
+[patrick]: https://radiology.uchicago.edu/directory/patrick-la-riviere
+[mbl]: http://www.mbl.edu/
+[ubc]: https://www.ubc.ca/
+[fizz]: http://www.engphys.ubc.ca/

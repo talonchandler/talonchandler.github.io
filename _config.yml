@@ -14,7 +14,7 @@ links:
   - name:	  Contact
     url:	  /contact
   - name:	  CV
-    url:	  /cv.pdf
+    url:	  /cv/cv.pdf
     
 highlighter:      rouge
 permalink:        pretty

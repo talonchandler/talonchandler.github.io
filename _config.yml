@@ -7,8 +7,8 @@ google_analytics: UA-110567746-1
 links:
   - name:         Home
     url:          /
-#  - name:         Writing
-#    url:          /writing
+#  - name:         Papers
+#    url:          /papers
 #  - name: 	  Posts
 #    url:	  /posts
   - name:	  Contact

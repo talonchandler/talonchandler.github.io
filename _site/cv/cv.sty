@@ -9,6 +9,7 @@ right  = 2cm]{geometry}
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{etaremune}
+\usepackage{fontawesome}
 
 % Commands
 \newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
@@ -53,6 +54,45 @@ right  = 2cm]{geometry}
   }
 }
 \makeauthorbold{Chandler}
+
+% Extra stuff for every bib entry
+% Inspired by: https://cs.dartmouth.edu/~wjarosz/wjarosz_cv.pdf
+\newcounter{firstbib}
+\setcounter{firstbib}{0}
+\AtEveryBibitem{\stepcounter{firstbib}}
+
+\DeclareSourcemap{
+	\maps[datatype=bibtex]{
+		\map{
+			\step[fieldsource=extra-no-webpage, fieldtarget=usera]
+		}
+		\map{
+			\step[fieldsource=extra-scholar-count, fieldtarget=userb]
+		}
+		\map{
+			\step[fieldsource=extra-scholar-url, fieldtarget=userc]
+		}
+	}
+}
+
+\DeclareFieldFormat{url}{}
+\DeclareFieldFormat{usera}{}
+\DeclareFieldFormat{userb}{}
+\DeclareFieldFormat{userc}{}
+
+\AtEveryBibitem{%
+    \csappto{blx@bbx@\thefield{entrytype}}{% put at end of entry
+		% \iffieldundef{usera}{\ifentrytype{patent}{}{\newline}}{\iffieldundef{userb}{}{\newline}}
+		\iffieldundef{usera}{%
+			\ifentrytype{patent}{}{%
+				\space{}\space{}\href{https://talonchandler.com/papers/\thefield{entrykey}.pdf}{\faFilePdfO~PDF}%
+			}%
+		}{}%
+		\iffieldundef{userb}{}{%
+			\space{}\space{}\href{\thefield{userc}}{\aiGoogleScholarSquare~citations: \thefield{userb}}%
+		}%
+	}
+}
 
 % Use [roman] style
 \renewcommand{\labelenumi}{[\theenumi]}

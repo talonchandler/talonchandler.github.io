@@ -14,6 +14,13 @@ I'm interested in physics, [bees](http://scandiahoney.com/), and [ultramarathon 
 
 <span class="bold">News</span>
 
+2018-06-23: I'm presenting a talk titled "Spatio-angular restoration of \\
+      fluorescence microscopy data" at the Optics Society of America Imaging and
+      Applied Optics Conference in Orlando, FL this week.
+      
+2018-06-17: I'm presenting a talk and poster titled "Spatio-angular restoration
+      of fluorescence microscopy data" at the Gordon Image Science Conference in Easton, MA this week. [More...]({{ site.url }}/posters/2018-gordon.pdf)
+
 2018-04-02: I'm presenting a poster titled "Single-fluorophore orientation determination with multiview polarized illumination microscope" at the IEEE International Symposium on Biomedical Imaging (ISBI) in Washington, DC this week. [More...]({{ site.url }}/posters/2018-isbi.pdf)
 
 2017-12-01: Our work on determining the orientation of single molecules with multi-view polarized light microscopes appeared in Optics Express. [More...](https://www.osapublishing.org/oe/abstract.cfm?uri=oe-25-25-31309&origin=search)

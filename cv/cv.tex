@@ -1,6 +1,16 @@
 \documentclass[12pt,letterpaper]{article}
 \usepackage{cv}
 
+\newenvironment{benumerate}[1]{
+    \let\oldItem\item
+    \def\item{\addtocounter{enumi}{-2}\oldItem}
+    \begin{enumerate}[labelsep=0.0125\textwidth, align=left]
+    \setcounter{enumi}{#1}
+    \addtocounter{enumi}{1}
+}{
+    \end{enumerate}
+}
+
 \begin{document}
 \begin{center}
 {\Large \textbf{TALON CHANDLER}}\\
@@ -24,7 +34,7 @@
 \end{itemize}
 
 \mysubsection{Education}
-\begin{etaremune}[labelsep=0.035\textwidth]
+\begin{benumerate}{2}
 \item
   \textbf{(In Progress) Ph.D. Medical Physics} \hfill 2015--2020\\
   Thesis: ``Spatio-angular fluorescence microscopy''\\
@@ -35,7 +45,7 @@
   with Electrical Engineering Minor, with Distinction\\
   GPA: 3.93/4.00\\
   University of British Columbia
-\end{etaremune}
+\end{benumerate}
 
 \mysubsection{Publications}
 \nocite{*}
@@ -43,43 +53,57 @@
 \printbibliography[heading=none, type=article, sorting=ynt]
 
 \mysubsection{Presentations}
-\begin{etaremune}[labelsep=0.035\textwidth]
+\begin{benumerate}{13}
+\item {``Spatio-angular fluorescence microscopy,'' \hfill 04/2019\\
+     Graduate Program on Medical Physics Colloquium, Chicago, IL. 1 hour talk.}
+  
+\item {``Spatio-angular inverse problems in fluorescence microscopy,'' \hfill 03/2019\\
+     Inverse Problems in Imaging Seminar, Chicago, IL. 1 hour talk.}
+  
+\item {``Spatio-angular imaging with a polarized light sheet dual-view  \hfill 02/2019\\
+    fluorescence microscope,'' Advanced Imaging Methods, Berkeley, CA. Poster.}
+
+\item {``DNA microscopy,'' \hfill 03/2018\\
+    Graduate Program on Medical Physics Journal Club. 1 hour talk.}
+  
 \item {``Spatio-angular imaging with a polarized light sheet dual-view  \hfill 11/2018\\
-    fluorescence microscope'' NSF Workshop on Enabling Biological Discovery\\ through
+    fluorescence microscope,'' NSF Workshop on Enabling Biological Discovery\\ through
     Innovations in Imaging and Computation, Woods Hole, MA. Poster.}
   
-\item {``Spatio-angular restoration of fluorescence microscopy data'' \hfill 6/2018\\
+\item {``Spatio-angular restoration of fluorescence microscopy data,'' \hfill 06/2018\\
       Optics Society of America, Mathematics in Imaging, Orlando, FL. 12 minute talk.}
   
-\item {``Spatio-angular restoration of fluorescence microscopy data'' \hfill 6/2018\\
+\item {``Spatio-angular restoration of fluorescence microscopy data,'' \hfill 06/2018\\
       Gordon Image Science Conference, Easton, MA. 15 minute talk and poster.}
 
-  \item {``Single-fluorophore orientation determination with multiview polarized\hfill 4/2018\\
-      illumination microscope'' IEEE International Symposium on Biomedical\\ Imaging (ISBI), Washington, DC. Poster.}
+  \item {``Single-fluorophore orientation determination with multiview polarized\hfill 04/2018\\
+      illumination microscope,'' IEEE International Symposium on Biomedical\\ Imaging (ISBI), Washington, DC. Poster.}
   
-\item {``Are lenses necessary?'' \hfill 3/2018\\
+\item {``Are lenses necessary?'' \hfill 03/2018\\
     Graduate Program on Medical Physics Journal Club. 1 hour talk.\\
     \textbf{Carl J. Vyborny Award for Outstanding Journal Club Presentation}  }
   
-\item {``Mapping molecular order in living organisms using polarized light microscopy'' \hfill 10/2017\\
+\item {``Mapping molecular order in living organisms using polarized light microscopy,'' \hfill 10/2017\\
     with Rudolf Oldenbourg, University of California, Berkeley. 1 hour talk.}
   
-\item {``Mapping molecular order in living organisms using polarized light microscopy'' \hfill 10/2017\\
+\item {``Mapping molecular order in living organisms using polarized light microscopy,'' \hfill 10/2017\\
     with Rudolf Oldenbourg, SCIEN Colloquium, Stanford University. 1 hour talk.}
   
-\item {``Evaluating gambles using dynamics'' \hfill 04/2017\\
+\item {``Evaluating gambles using dynamics,'' \hfill 04/2017\\
     Graduate Program on Medical Physics Journal Club. 30 minute talk.\\
     \textbf{Carl J. Vyborny Award for Outstanding Journal Club Presentation}}
 
-\item {``Digital holography for radiation dosimetry'' \hfill 04/2016\\
+\item {``Digital holography for radiation dosimetry,'' \hfill 04/2016\\
     Graduate Program on Medical Physics Journal Club. 30 minute talk.}
-\end{etaremune}
+% \end{etaremune}
+% \end{enumerate}
+\end{benumerate}
 
 \mysubsection{Research History}
-\begin{etaremune}[labelsep=0.035\textwidth]
+\begin{benumerate}{5}
 \item
   {\textbf{La Rivi\`ere Lab}, University of Chicago} \hfill 05/2016--\\
-  Advisors: Dr. Patrick La Rivi\`ere \& Dr. Rudolph Oldenbourg\\
+  Advisors: Dr. Patrick La Rivi\`ere \& Dr. Rudolf Oldenbourg\\
   Topics: Polarized light microscopy, 3D reconstruction
 \item
   {\textbf{Kao Lab}, University of Chicago} \hfill 01/2016--04/2016\\
@@ -97,10 +121,10 @@
   {\textbf{Centre For Operations Excellence}, University of British Columbia} \hfill 04/2013--09/2015\\
   Advisor: Dr. Steven Shechter\\
   Topics: Health care optimization, Monte Carlo simulation
-\end{etaremune}
+\end{benumerate}
 
 \mysubsection{Employment History}
-\begin{etaremune}[labelsep=0.035\textwidth]
+\begin{benumerate}{2}
 \item
   \textbf{Kardium Inc.}, Burnaby, BC \hfill 09/2013--12/2013\\
   Junior Engineer\\
@@ -109,10 +133,15 @@
   \textbf{SRK Consulting Inc.}, Vancouver, BC \hfill 01/2012--04/2012\\
   Junior Engineer\\
   Topics: Waste water management, Monte Carlo simulation
-\end{etaremune}
+\end{benumerate}
 
 \mysubsection{Teaching}
-\begin{etaremune}[labelsep=0.035\textwidth]
+\begin{benumerate}{3}
+\item
+  \textbf{Introduction to Medical Physics}, University of Chicago \hfill 2019\\
+  Teaching Assistant\\
+  Topics: Medical imaging and radiation therapy\\
+  Rating: In progress
 \item
   \textbf{Medical Imaging 1}, University of Chicago \hfill 2017\\
   Teaching Assistant\\
@@ -123,10 +152,11 @@
   Teaching Assistant\\
   Topics: Linear systems theory, stochastic processes, image reconstruction\\
   Rating: 4.8/5.0 from 5 students
-\end{etaremune}
+\end{benumerate}
 
 \mysubsection{Awards}
 \begin{etaremune}[itemsep=-2pt, labelsep=0.035\textwidth]
+\item \itab{University of Chicago Biological Sciences Division Travel Award}\rtab{\$500}\hfill{2019}
 \item \itab{University of Chicago Biological Sciences Division Graduate
     Fellowship}\rtab{\$30k}\hfill{2016}
 \item \itab{Eastern Irrigation District Graduate Scholarship}\rtab{\$2k}\hfill{2014}
@@ -149,8 +179,8 @@
 \mysubsection{Reviewing}
 \begin{etaremune}[itemsep=-2pt, labelsep=0.035\textwidth]
 \item \itab{Optics Letters} \hfill {2019}
+\item \itab{Nature Communications} \hfill{2018--2019}
 \item \itab{Optica} \hfill{2018}
-\item \itab{Nature Communications} \hfill{2018}
 \item \itab{Optics Express}  \hfill{2018}
 \item \itab{Journal of the Optical Society of America A} \hfill{2017}
 \end{etaremune}

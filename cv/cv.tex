@@ -9,6 +9,16 @@
     \addtocounter{enumi}{1}
 }{
     \end{enumerate}
+  }
+  % \begin{etaremune}[itemsep=-2pt, labelsep=0.035\textwidth]
+\newenvironment{mybenumerate}[1]{
+    \let\oldItem\item
+    \def\item{\addtocounter{enumi}{-2}\oldItem}
+    \begin{enumerate}[itemsep=-2pt, labelsep=0.0125\textwidth, align=left]
+    \setcounter{enumi}{#1}
+    \addtocounter{enumi}{1}
+}{
+    \end{enumerate}
 }
 
 \begin{document}
@@ -164,7 +174,8 @@
 \end{benumerate}
 
 \mysubsection{Awards}
-\begin{etaremune}[itemsep=-2pt, labelsep=0.035\textwidth]
+\begin{mybenumerate}{10}
+  \item \itab{University of Chicago Graduate Council Travel Award}\rtab{\$600}\hfill{2019}
 \item \itab{University of Chicago Biological Sciences Division Travel Award}\rtab{\$500}\hfill{2019}
 \item \itab{University of Chicago Biological Sciences Division Graduate
     Fellowship}\rtab{\$30k}\hfill{2016}
@@ -175,7 +186,8 @@
 \item \itab{UBC President's Entrance Scholarship}\rtab{\$1.5k}\hfill{2010}
 \item \itab{Alexander Rutherford Scholarship}\rtab{\$2.5k}\hfill{2010}
 \item \itab{Junior Citizen of the Year, City of Brooks}\rtab{-}\hfill{2010}
-\end{etaremune}
+\end{mybenumerate}
+% \end{etaremune}
 
 \mysubsection{Professional Membership}
 \begin{etaremune}[itemsep=-2pt, labelsep=0.035\textwidth]

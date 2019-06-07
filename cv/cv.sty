@@ -109,3 +109,23 @@ right  = 2cm]{geometry}
 
 % Use [roman] style
 \renewcommand{\labelenumi}{[\theenumi]}
+
+% Create benumerate environments 
+\newenvironment{benumerate}[1]{
+    \let\oldItem\item
+    \def\item{\addtocounter{enumi}{-2}\oldItem}
+    \begin{enumerate}[labelsep=0.0125\textwidth, align=left]
+    \setcounter{enumi}{#1}
+    \addtocounter{enumi}{1}
+}{
+    \end{enumerate}
+  }
+\newenvironment{mybenumerate}[1]{
+    \let\oldItem\item
+    \def\item{\addtocounter{enumi}{-2}\oldItem}
+    \begin{enumerate}[itemsep=-2pt, labelsep=0.0125\textwidth, align=left]
+    \setcounter{enumi}{#1}
+    \addtocounter{enumi}{1}
+}{
+    \end{enumerate}
+}

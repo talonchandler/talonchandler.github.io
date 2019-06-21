@@ -14,22 +14,21 @@ I'm interested in physics, [bees](http://scandiahoney.com/), and [ultramarathon 
 
 <span class="bold">News</span>
 
-2018-01-12: I've posted a pair of preprints on spatio-angular fluorescence
-microscopy with Hari Shroff, Rudolf Oldenbourg, and Patrick La
-Rivi&egrave;re. [Part 1](https://arxiv.org/abs/1812.07093) and [Part
-2](https://arxiv.org/abs/1901.01181).
+2019-06-24: I'm presenting a talk titled "Spatio-angular restoration of fluorescence microscopy data" at the Optics Society of America Imaging and Applied Optics Conference in Orlando, FL this week.
 
-2018-11-26: I'll be participating in an NSF workshop titled Enabling Biological
-    Discovery through Innovations in Imaging and Computation in Woods Hole, MA.
+2019-05-01: I'm attending Frontiers in Imaging Science at Janelia Research Campus. I'll be presenting a poster titled "Spatio-angular fluorescence imaging with a polarized-illumination light-sheet dual-view microscope".
 
-2018-09-01: I've moved back to Chicago from Woods Hole. 
+2019-04-15: I'm presenting a talk titled "Spatio-angular fluorescence imaging with a polarized-illumination light-sheet dual-view microscope" at Focus on Microscopy (FOM) in London, UK. 
 
-2018-06-23: I'm presenting a talk titled "Spatio-angular restoration of \\
-      fluorescence microscopy data" at the Optics Society of America Imaging and
-      Applied Optics Conference in Orlando, FL this week.
+2019-01-12: I've posted a pair of preprints on spatio-angular fluorescence microscopy with Hari Shroff, Rudolf Oldenbourg, and Patrick La Rivi&egrave;re. [Part 1](https://arxiv.org/abs/1812.07093) and [Part 2](https://arxiv.org/abs/1901.01181).
+
+2018-11-26: I'll be participating in an NSF workshop titled Enabling Biological Discovery through Innovations in Imaging and Computation in Woods Hole, MA.
+
+2018-09-01: I've moved back to Chicago from Woods Hole.
+
+2018-06-23: I'm presenting a talk titled "Spatio-angular restoration of fluorescence microscopy data" at the Optics Society of America Imaging and Applied Optics Conference in Orlando, FL this week.
       
-2018-06-17: I'm presenting a talk and poster titled "Spatio-angular restoration
-      of fluorescence microscopy data" at the Gordon Image Science Conference in Easton, MA this week. [More...]({{ site.url }}/posters/2018-gordon.pdf)
+2018-06-17: I'm presenting a talk and poster titled "Spatio-angular restoration of fluorescence microscopy data" at the Gordon Image Science Conference in Easton, MA this week. [More...]({{ site.url }}/posters/2018-gordon.pdf)
 
 2018-04-02: I'm presenting a poster titled "Single-fluorophore orientation determination with multiview polarized illumination microscope" at the IEEE International Symposium on Biomedical Imaging (ISBI) in Washington, DC this week. [More...]({{ site.url }}/posters/2018-isbi.pdf)
 

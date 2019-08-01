@@ -23,20 +23,33 @@ right  = 2cm]{geometry}
 
 % Bibliography
 \usepackage[american]{babel}
-\usepackage[backend=biber, maxbibnames=100, style=ieee, dashed=false]{biblatex}
+\usepackage[defernumbers=true, backend=biber, maxbibnames=100, style=ieee, dashed=false]{biblatex}
 \addbibresource{cv.bib}
 
-% Reverse numbering
+%% Reverse numbering for articles
 % Count total number of entries in each refsection
-\AtDataInput{%
+\AtDataInput[article]{%
   \csnumgdef{entrycount:\therefsection}{%
     \csuse{entrycount:\therefsection}+1}}
 
 % Print the labelnumber as the total number of entries in the
 % current refsection, minus the actual labelnumber, plus one
-\DeclareFieldFormat{labelnumber}{\mkbibdesc{#1}}    
+\DeclareFieldFormat[article]{labelnumber}{\mkbibdesc{#1}}    
 \newrobustcmd*{\mkbibdesc}[1]{%
   \number\numexpr\csuse{entrycount:\therefsection}+1-#1\relax}
+
+%% Reverse numbering for misc
+% Count total number of entries in each refsection
+\AtDataInput[misc]{%
+  \csnumgdef{miscentrycount:\therefsection}{%
+    \csuse{miscentrycount:\therefsection}+1}}
+
+% Print the labelnumber as the total number of entries in the
+% current refsection, minus the actual labelnumber, plus one
+\DeclareFieldFormat[misc]{labelnumber}{\mkbibmiscdesc{#1}}    
+\newrobustcmd*{\mkbibmiscdesc}[1]{%
+  \number\numexpr\csuse{miscentrycount:\therefsection}+1-#1\relax}
+
 
 % Bold my name
 \newcommand{\makeauthorbold}[1]{%
@@ -96,3 +109,23 @@ right  = 2cm]{geometry}
 
 % Use [roman] style
 \renewcommand{\labelenumi}{[\theenumi]}
+
+% Create benumerate environments 
+\newenvironment{benumerate}[1]{
+    \let\oldItem\item
+    \def\item{\addtocounter{enumi}{-2}\oldItem}
+    \begin{enumerate}[labelsep=0.0125\textwidth, align=left]
+    \setcounter{enumi}{#1}
+    \addtocounter{enumi}{1}
+}{
+    \end{enumerate}
+  }
+\newenvironment{mybenumerate}[1]{
+    \let\oldItem\item
+    \def\item{\addtocounter{enumi}{-2}\oldItem}
+    \begin{enumerate}[itemsep=-2pt, labelsep=0.0125\textwidth, align=left]
+    \setcounter{enumi}{#1}
+    \addtocounter{enumi}{1}
+}{
+    \end{enumerate}
+}

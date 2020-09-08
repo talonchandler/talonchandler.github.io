@@ -93,12 +93,13 @@ right  = 2cm]{geometry}
 \DeclareFieldFormat{userb}{}
 \DeclareFieldFormat{userc}{}
 
+% Add pdf link 
 \AtEveryBibitem{%
     \csappto{blx@bbx@\thefield{entrytype}}{% put at end of entry
 		% \iffieldundef{usera}{\ifentrytype{patent}{}{\newline}}{\iffieldundef{userb}{}{\newline}}
 		\iffieldundef{usera}{%
 			\ifentrytype{patent}{}{%
-				\space{}\space{}\href{https://talonchandler.com/papers/\thefield{entrykey}.pdf}{\faFilePdfO~PDF}%
+				\space{}\space{}\href{https://talonchandler.com/papers/\thefield{entrykey}.pdf}{\faFilePdfO~\texttt{PDF}}%
 			}%
 		}{}%
 		\iffieldundef{userb}{}{%

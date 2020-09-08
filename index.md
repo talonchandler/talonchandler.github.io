@@ -6,15 +6,17 @@ layout: page
 
 Hi, I'm [Talon](https://books.google.com/books?id=pD6arNyKyi8C&pg=PT61&lpg=PT61&dq=%22Just+at+that+moment+the+Lord+of+the+Eagles+swept+down+from+above,+seized+him+in+his+talons,+and+was+gone.%22&source=bl&ots=2kfe5990uE&sig=8_ISf65WbcgOCJikcD5oP2Y2FXk&hl=en&sa=X&ved=0ahUKEwjO6IfYzvrTAhVLjlQKHXy0CXQQ6AEIKzAB#v=onepage&q=%22Just%20at%20that%20moment%20the%20Lord%20of%20the%20Eagles%20swept%20down%20from%20above%2C%20seized%20him%20in%20his%20talons%2C%20and%20was%20gone.%22&f=false).
 
-I'm a fifth year Ph.D. student at the [University][chicago] [of Chicago][chicago] in the [Graduate Program in Medical Physics][medphys]. I'm developing spatio-angular microscopes with [Dr. Patrick La][patrick] [Rivi&egrave;re][patrick] and [Dr. Rudolf Oldenbourg](http://www.mbl.edu/bell/current-faculty/oldenbourg-lab/).
-
-My goal is to develop microscopy techniques that can measure the position, orientation, and rotational mobility of fluorescent molecules and apply these techniques to fundamental biological problems.
+I'm a recent graduate of the [University][chicago] [of Chicago][chicago]'s [Graduate Program in][medphys][Medical Physics][medphys] where I developed spatio-angular microscopes with [Prof. Patrick La][patrick] [Rivi&egrave;re][patrick] and [Dr. Rudolf Oldenbourg](http://www.mbl.edu/bell/current-faculty/oldenbourg-lab/).
 
 I graduated from the [University of British Columbia][ubc] in 2015 with a B.A.Sc. in [Engineering Physics][fizz].
 
 I'm interested in physics, [bees](http://scandiahoney.com/), and [ultramarathon running](http://ultrasignup.com/results_participant.aspx?fname=Talon&lname=Chandler).
 
 <span class="bold">News</span>
+
+2020-09-01: I've completed my Ph.D., and I've [posted my dissertation]({{ site.url }}/papers/2020-chandler-dissertation.pdf)[(21 MB)]({{ site.url }}/papers/2020-chandler-dissertation.pdf). I'll be finishing my projects in Chicago while I interview. 
+
+2020-08-31: Our paper on angular diffusion in spatio-angular fluorescence microscopy appeared [online](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-9-1465). 
 
 2020-01-24: I've [posted a preprint](https://arxiv.org/abs/2001.09232) on angular diffusion in spatio-angular fluorescence microscopy with Hari Shroff, Rudolf Oldenbourg, and Patrick La Rivi&egrave;re.
 

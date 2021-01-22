@@ -6,13 +6,17 @@ layout: page
 
 Hi, I'm [Talon](https://books.google.com/books?id=pD6arNyKyi8C&pg=PT61&lpg=PT61&dq=%22Just+at+that+moment+the+Lord+of+the+Eagles+swept+down+from+above,+seized+him+in+his+talons,+and+was+gone.%22&source=bl&ots=2kfe5990uE&sig=8_ISf65WbcgOCJikcD5oP2Y2FXk&hl=en&sa=X&ved=0ahUKEwjO6IfYzvrTAhVLjlQKHXy0CXQQ6AEIKzAB#v=onepage&q=%22Just%20at%20that%20moment%20the%20Lord%20of%20the%20Eagles%20swept%20down%20from%20above%2C%20seized%20him%20in%20his%20talons%2C%20and%20was%20gone.%22&f=false).
 
-I'm a recent graduate from the [University][chicago] [of Chicago][chicago] in the [Graduate Program in][medphys] [Medical Physics][medphys] where I developed spatio-angular microscopes with [Prof. Patrick La][patrick] [Rivi&egrave;re][patrick] and [Dr. Rudolf Oldenbourg](http://www.mbl.edu/bell/current-faculty/oldenbourg-lab/).
+I'm a postdoctoral scholar in [Dr. Sabrina Leslie's Lab](https://leslielab.msl.ubc.ca/), one of the [Michael Smith Laboratories](https://www.msl.ubc.ca/) at the [University of British Columbia][ubc]. 
+
+I received my Ph.D. from the [University][chicago] [of Chicago's][chicago] [Graduate Program in][medphys] [Medical Physics][medphys] in 2020 where I developed spatio-angular microscopes with [Dr. Patrick La][patrick] [Rivi&egrave;re][patrick], [Dr. Rudolf Oldenbourg](http://www.mbl.edu/bell/current-faculty/oldenbourg-lab/), and [Dr. Hari Shroff](https://www.nibib.nih.gov/about-nibib/staff/hari-shroff).
 
 I graduated from the [University of British Columbia][ubc] in 2015 with a B.A.Sc. in [Engineering Physics][fizz].
 
-I'm interested in physics, [bees](http://scandiahoney.com/), and [ultramarathon running](http://ultrasignup.com/results_participant.aspx?fname=Talon&lname=Chandler).
+I grew up in a family of apiarists: my parents operate [Scandia Honey](http://scandiahoney.com/) in Southern Alberta, my sister [sells honey](https://chandlerhoney.ca/) in Toronto, and my aunt and uncle operate [Jane's Honey Bees](https://www.janeshoneybees.com) in the Vancouver area. In my spare time I mostly read and [run](http://ultrasignup.com/results_participant.aspx?fname=Talon&lname=Chandler).
 
 <span class="bold">News</span>
+
+2021-01-04: I've moved to Vancouver to join [Dr. Sabrina Leslie's Lab](https://leslielab.msl.ubc.ca/) at the University of British Columbia.
 
 2020-09-01: I've completed my Ph.D., and I've [posted my dissertation]({{ site.url }}/papers/2020-chandler-dissertation.pdf) [(21 MB)]({{ site.url }}/papers/2020-chandler-dissertation.pdf). I'll be finishing my projects in Chicago while I interview. 
 

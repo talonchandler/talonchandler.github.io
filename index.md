@@ -6,7 +6,7 @@ layout: page
 
 Hi, I'm [Talon](https://books.google.com/books?id=pD6arNyKyi8C&pg=PT61&lpg=PT61&dq=%22Just+at+that+moment+the+Lord+of+the+Eagles+swept+down+from+above,+seized+him+in+his+talons,+and+was+gone.%22&source=bl&ots=2kfe5990uE&sig=8_ISf65WbcgOCJikcD5oP2Y2FXk&hl=en&sa=X&ved=0ahUKEwjO6IfYzvrTAhVLjlQKHXy0CXQQ6AEIKzAB#v=onepage&q=%22Just%20at%20that%20moment%20the%20Lord%20of%20the%20Eagles%20swept%20down%20from%20above%2C%20seized%20him%20in%20his%20talons%2C%20and%20was%20gone.%22&f=false).
 
-I'm currently interviewing for research positions starting mid 2022.
+<span class="bold">I'm currently interviewing for research positions starting mid 2022.</span>
 
 I received my Ph.D. from the [University][chicago] [of Chicago's][chicago] [Graduate Program in][medphys] [Medical Physics][medphys] in 2020 where I developed spatio-angular microscopes with [Dr. Patrick La][patrick] [Rivi&egrave;re][patrick], [Dr. Rudolf Oldenbourg](http://www.mbl.edu/bell/current-faculty/oldenbourg-lab/), and [Dr. Hari Shroff](https://www.nibib.nih.gov/about-nibib/staff/hari-shroff).
 
@@ -16,7 +16,7 @@ I grew up in a family of apiarists: my parents operate [Scandia Honey](http://sc
 
 <span class="bold">News</span>
 
-2021-11-27 I've departed Sabrina Leslie's lab, and I'm interviewing for research positions starting mid 2022. 
+2021-11-27: I've departed Sabrina Leslie's lab, and I'm interviewing for research positions starting mid 2022. 
 
 2021-01-04: I've moved to Vancouver to join [Dr. Sabrina Leslie's Lab](https://leslielab.msl.ubc.ca/) at the University of British Columbia.
 

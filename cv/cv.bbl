@@ -1,0 +1,327 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{2020-josaa}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ca817a43a6798f657f69b8d86a7e394c}{%
+           family={Chandler},
+           familyi={C\bibinitperiod},
+           given={Talon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=37ce6c04176d0a44d344a61918ddf492}{%
+           family={Shroff},
+           familyi={S\bibinitperiod},
+           given={Hari},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2f8d1f53c6ca810cf8d25633061aa1bd}{%
+           family={Oldenbourg},
+           familyi={O\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ff0252587e3c0d924c672f9b7e751ae1}{%
+           family={La\bibnamedelima Rivière},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Patrick\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optical Society of America}%
+      }
+      \strng{namehash}{e79a4bde62a0e9041c09f75b4038204e}
+      \strng{fullhash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \strng{bibnamehash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \strng{authorbibnamehash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \strng{authornamehash}{e79a4bde62a0e9041c09f75b4038204e}
+      \strng{authorfullhash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1520-8532}
+      \field{journaltitle}{Journal of the Optical Society of America A}
+      \field{month}{9}
+      \field{number}{9}
+      \field{title}{Spatio-angular fluorescence microscopy {III}. {C}onstrained angular diffusion, polarized excitation, and high-{NA} imaging}
+      \field{volume}{37}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{1465\bibrangedash 1479}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1364/JOSAA.389217
+      \endverb
+    \endentry
+    \entry{2019-josaa-b}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ca817a43a6798f657f69b8d86a7e394c}{%
+           family={Chandler},
+           familyi={C\bibinitperiod},
+           given={Talon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=37ce6c04176d0a44d344a61918ddf492}{%
+           family={Shroff},
+           familyi={S\bibinitperiod},
+           given={Hari},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2f8d1f53c6ca810cf8d25633061aa1bd}{%
+           family={Oldenbourg},
+           familyi={O\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ff0252587e3c0d924c672f9b7e751ae1}{%
+           family={La\bibnamedelima Rivière},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Patrick\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OSA}%
+      }
+      \strng{namehash}{e79a4bde62a0e9041c09f75b4038204e}
+      \strng{fullhash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \strng{bibnamehash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \strng{authorbibnamehash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \strng{authornamehash}{e79a4bde62a0e9041c09f75b4038204e}
+      \strng{authorfullhash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Opt. Soc. Am. A}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Spatio-angular fluorescence microscopy {II}. {P}araxial 4$f$ imaging}
+      \field{volume}{36}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1346\bibrangedash 1360}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1364/JOSAA.36.001346
+      \endverb
+      \keyw{Electric fields; Fourier transforms; Imaging systems; Point spread function; Pupil; Spatial frequency}
+    \endentry
+    \entry{2019-josaa-a}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ca817a43a6798f657f69b8d86a7e394c}{%
+           family={Chandler},
+           familyi={C\bibinitperiod},
+           given={Talon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=37ce6c04176d0a44d344a61918ddf492}{%
+           family={Shroff},
+           familyi={S\bibinitperiod},
+           given={Hari},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2f8d1f53c6ca810cf8d25633061aa1bd}{%
+           family={Oldenbourg},
+           familyi={O\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ff0252587e3c0d924c672f9b7e751ae1}{%
+           family={La\bibnamedelima Rivière},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Patrick\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OSA}%
+      }
+      \strng{namehash}{e79a4bde62a0e9041c09f75b4038204e}
+      \strng{fullhash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \strng{bibnamehash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \strng{authorbibnamehash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \strng{authornamehash}{e79a4bde62a0e9041c09f75b4038204e}
+      \strng{authorfullhash}{9db3c3d5130da558f51559ef7ea7e9b7}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Opt. Soc. Am. A}
+      \field{month}{8}
+      \field{number}{8}
+      \field{title}{Spatio-angular fluorescence microscopy {I}. {B}asic theory}
+      \field{volume}{36}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1334\bibrangedash 1345}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1364/JOSAA.36.001334
+      \endverb
+      \keyw{Electric fields; Fluorescence microscopy; Imaging systems; Imaging techniques; Optical transfer functions; Point spread function}
+    \endentry
+    \entry{2017-optics-express}{article}{}
+      \name{author}{5}{}{%
+        {{hash=ca817a43a6798f657f69b8d86a7e394c}{%
+           family={Chandler},
+           familyi={C\bibinitperiod},
+           given={Talon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4b6c83c54b055431a9da50f532edff83}{%
+           family={Mehta},
+           familyi={M\bibinitperiod},
+           given={Shalin},
+           giveni={S\bibinitperiod}}}%
+        {{hash=37ce6c04176d0a44d344a61918ddf492}{%
+           family={Shroff},
+           familyi={S\bibinitperiod},
+           given={Hari},
+           giveni={H\bibinitperiod}}}%
+        {{hash=2f8d1f53c6ca810cf8d25633061aa1bd}{%
+           family={Oldenbourg},
+           familyi={O\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ff0252587e3c0d924c672f9b7e751ae1}{%
+           family={La\bibnamedelima Rivière},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Patrick\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{95a5a8152a617241615d940dc72c78c3}
+      \strng{fullhash}{cab29185e572ec89ba1739a1597eedeb}
+      \strng{bibnamehash}{cab29185e572ec89ba1739a1597eedeb}
+      \strng{authorbibnamehash}{cab29185e572ec89ba1739a1597eedeb}
+      \strng{authornamehash}{95a5a8152a617241615d940dc72c78c3}
+      \strng{authorfullhash}{cab29185e572ec89ba1739a1597eedeb}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Express}
+      \field{number}{25}
+      \field{title}{Single-fluorophore orientation determination with multiview polarized illumination: modeling and microscope design}
+      \field{volume}{25}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1364/OE.25.031309
+      \endverb
+    \endentry
+    \entry{2017-f1000}{article}{}
+      \name{author}{6}{}{%
+        {{hash=87b62b342729bdd08136b18c422d1449}{%
+           family={Day},
+           familyi={D\bibinitperiod},
+           given={Kasey\bibnamedelima J},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ff0252587e3c0d924c672f9b7e751ae1}{%
+           family={La\bibnamedelima Rivière},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Patrick\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ca817a43a6798f657f69b8d86a7e394c}{%
+           family={Chandler},
+           familyi={C\bibinitperiod},
+           given={Talon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=388c53402678b10c9602d59c42dccdf7}{%
+           family={Bindokas},
+           familyi={B\bibinitperiod},
+           given={Vytas\bibnamedelima P},
+           giveni={V\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=8c9612c3d2188dbfc9458615dc18ab92}{%
+           family={Ferrier},
+           familyi={F\bibinitperiod},
+           given={Nicola\bibnamedelima J},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ed108068820035f2b222dc970b891707}{%
+           family={Glick},
+           familyi={G\bibinitperiod},
+           given={Benjamin\bibnamedelima S},
+           giveni={B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{18407f94ec44623ef083c59287ba2933}
+      \strng{fullhash}{8da3fca0b18231fc107a32532e202b9b}
+      \strng{bibnamehash}{8da3fca0b18231fc107a32532e202b9b}
+      \strng{authorbibnamehash}{8da3fca0b18231fc107a32532e202b9b}
+      \strng{authornamehash}{18407f94ec44623ef083c59287ba2933}
+      \strng{authorfullhash}{8da3fca0b18231fc107a32532e202b9b}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{F1000Research}
+      \field{number}{787}
+      \field{title}{Improved deconvolution of very weak confocal signals}
+      \field{volume}{6}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.12688/f1000research.11773.1
+      \endverb
+    \endentry
+    \entry{2017-ajkd}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5bf8a865e0de025e840e06e27e7a3787}{%
+           family={Shechter},
+           familyi={S\bibinitperiod},
+           given={Steven\bibnamedelima M},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=ca817a43a6798f657f69b8d86a7e394c}{%
+           family={Chandler},
+           familyi={C\bibinitperiod},
+           given={Talon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a2bc0c9bfd0df45b06c89ec5d20eb578}{%
+           family={Skandari},
+           familyi={S\bibinitperiod},
+           given={MR},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7d4c41d6cdefb3babaecc707c6ffacb4}{%
+           family={Zalunardo},
+           familyi={Z\bibinitperiod},
+           given={Nadia},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a34310c8a2c11e0e24edcdce2c17917e}
+      \strng{fullhash}{ab09d5b89e547b28537d4f8d1633daf8}
+      \strng{bibnamehash}{ab09d5b89e547b28537d4f8d1633daf8}
+      \strng{authorbibnamehash}{ab09d5b89e547b28537d4f8d1633daf8}
+      \strng{authornamehash}{a34310c8a2c11e0e24edcdce2c17917e}
+      \strng{authorfullhash}{ab09d5b89e547b28537d4f8d1633daf8}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Kidney Diseases}
+      \field{number}{3}
+      \field{title}{Cost-effectiveness Analysis of Vascular Access Referral Policies in {CKD}}
+      \field{volume}{70}
+      \field{year}{2017}
+      \true{nocite}
+      \field{pages}{368\bibrangedash 376}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1053/j.ajkd.2017.04.020
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

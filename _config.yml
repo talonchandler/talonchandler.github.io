@@ -1,8 +1,7 @@
 title:            Talon Chandler
-description:      
+description:
 url:              # Site url.
 signoff:          # Your name.
-google_analytics: UA-110567746-1
 
 links:
   - name:         Home
@@ -15,7 +14,7 @@ links:
     url:	  /contact
   - name:	  CV
     url:	  /cv/cv.pdf
-    
+
 highlighter:      rouge
 permalink:        pretty
 markdown:         kramdown

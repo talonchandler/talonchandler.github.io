@@ -19,6 +19,230 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{2024-chandler}{article}{}
+      \name{author}{18}{}{%
+        {{hash=0f0ed555a0da2660ea8974c2a01d2517}{%
+           family={\textbf{*Chandler,\bibnamedelimb Talon}},
+           familyi={*\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=61ead4db325697f726faf185cf42cfa1}{%
+           family={*Guo},
+           familyi={*\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ace7d267ed6b950b597790570e86f33a}{%
+           family={Su},
+           familyi={S\bibinitperiod},
+           given={Yijun},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=7fc57c5725589cdd37bc8f6cd7ed5fcf}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jiji},
+           giveni={J\bibinitperiod}}}%
+        {{hash=88e8cfbf50f1e38cc25d675619ea7e2a}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yicong},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=9c10e1d8fa5bbaa8a952e2df41e191eb}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Junyu},
+           giveni={J\bibinitperiod}}}%
+        {{hash=701d42a05fcb8fae3cef183753d8b6a3}{%
+           family={Agashe},
+           familyi={A\bibinitperiod},
+           given={Atharva},
+           giveni={A\bibinitperiod}}}%
+        {{hash=59b23bddb9b1a1dfa9db149fc21a8a0d}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Robert\bibnamedelima S.},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bd9c59cbe902330fbce70e9fdc088a7e}{%
+           family={Mehta},
+           familyi={M\bibinitperiod},
+           given={Shalin\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=6f760ca30acf637bd3ec08e61e594522}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Abhishek},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a508635ea7b126e4379d8be23bfb8eac}{%
+           family={Baskin},
+           familyi={B\bibinitperiod},
+           given={Tobias\bibnamedelima I.},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=00dde420253f1c997edc04c7a67adb9a}{%
+           family={Jaumouillé},
+           familyi={J\bibinitperiod},
+           given={Valentin},
+           giveni={V\bibinitperiod}}}%
+        {{hash=05883de8b503f2bb57b5dd99bc34d7d2}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Huafeng},
+           giveni={H\bibinitperiod}}}%
+        {{hash=22199e5b9f97e398f19ae26b211de840}{%
+           family={Swaminathan},
+           familyi={S\bibinitperiod},
+           given={Vinay},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c4d6808e6369ebbc15d51449a0578367}{%
+           family={Nain},
+           familyi={N\bibinitperiod},
+           given={Amrinder},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2f8d1f53c6ca810cf8d25633061aa1bd}{%
+           family={Oldenbourg},
+           familyi={O\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ff0252587e3c0d924c672f9b7e751ae1}{%
+           family={La\bibnamedelima Rivière},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Patrick\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=37ce6c04176d0a44d344a61918ddf492}{%
+           family={Shroff},
+           familyi={S\bibinitperiod},
+           given={Hari},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{27ec81f9bfdf8822c9ab7faae22acf63}
+      \strng{fullhash}{72e3574e77dc5b302acaa3a89df4d2ce}
+      \strng{bibnamehash}{72e3574e77dc5b302acaa3a89df4d2ce}
+      \strng{authorbibnamehash}{72e3574e77dc5b302acaa3a89df4d2ce}
+      \strng{authornamehash}{27ec81f9bfdf8822c9ab7faae22acf63}
+      \strng{authorfullhash}{72e3574e77dc5b302acaa3a89df4d2ce}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv preprint}
+      \field{month}{3}
+      \field{title}{Three-dimensional spatio-angular fluorescence microscopy with a polarized dual-view inverted selective-plane illumination microscope (pol-di{SPIM})}
+      \field{year}{2024}
+      \true{nocite}
+    \endentry
+    \entry{2023-ivanov}{article}{}
+      \name{author}{9}{}{%
+        {{hash=da9f3558fb8d8f58f79fa8d9c3eff073}{%
+           family={*Ivanov},
+           familyi={*\bibinitperiod},
+           given={Ivan\bibnamedelima E.},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=0a162e2f052856ab1308789cc4404867}{%
+           family={*Hirata-Miyasaki},
+           familyi={*\bibinithyphendelim M\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod}}}%
+        {{hash=0f0ed555a0da2660ea8974c2a01d2517}{%
+           family={\textbf{*Chandler,\bibnamedelimb Talon}},
+           familyi={*\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=d984efdc74c78071c15595a456a84589}{%
+           family={*Kovilakam},
+           familyi={*\bibinitperiod},
+           given={Rasmi\bibnamedelima Cheloor},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ff1891e0eb18d2323aa1a06b1b89d79d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Ziwen},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=d30b83fd81740db9da7ff2bded555aca}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Chad},
+           giveni={C\bibinitperiod}}}%
+        {{hash=2c18cf38091c8e66b74af760ca15b8f7}{%
+           family={Leonetti},
+           familyi={L\bibinitperiod},
+           given={Manuel\bibnamedelima D.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=11a71515dc9e04ba5c1266f7ef5e357a}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Bo},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bd9c59cbe902330fbce70e9fdc088a7e}{%
+           family={Mehta},
+           familyi={M\bibinitperiod},
+           given={Shalin\bibnamedelima B.},
+           giveni={S\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{6b3a9503efbca03e6127843e438e9b3c}
+      \strng{fullhash}{8cca07dea752e22b9606e44ccd74d999}
+      \strng{bibnamehash}{8cca07dea752e22b9606e44ccd74d999}
+      \strng{authorbibnamehash}{8cca07dea752e22b9606e44ccd74d999}
+      \strng{authornamehash}{6b3a9503efbca03e6127843e438e9b3c}
+      \strng{authorfullhash}{8cca07dea752e22b9606e44ccd74d999}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{bioRxiv preprint}
+      \field{month}{12}
+      \field{title}{Mantis: high-throughput {4D} imaging and analysis of the molecular and physical architecture of cells}
+      \field{year}{2023}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1101/2023.12.19.572435
+      \endverb
+    \endentry
+    \entry{2023-debrosse}{article}{}
+      \name{author}{4}{}{%
+        {{hash=d58e55fe7a43d5d42df9c4a1541c3c7d}{%
+           family={DeBrosse},
+           familyi={D\bibinitperiod},
+           given={Hadley},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ca817a43a6798f657f69b8d86a7e394c}{%
+           family={Chandler},
+           familyi={C\bibinitperiod},
+           given={Talon},
+           giveni={T\bibinitperiod}}}%
+        {{hash=cedca63fe363c2406881b2b3e82c0b49}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Ling\bibnamedelima Jian},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ff0252587e3c0d924c672f9b7e751ae1}{%
+           family={La\bibnamedelima Rivière},
+           familyi={L\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Patrick\bibnamedelima J},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{e29d04a0f5e7b322508faca875d93e61}
+      \strng{fullhash}{5acc5e4ef2712b95c5d3233e33cb62fb}
+      \strng{bibnamehash}{5acc5e4ef2712b95c5d3233e33cb62fb}
+      \strng{authorbibnamehash}{5acc5e4ef2712b95c5d3233e33cb62fb}
+      \strng{authornamehash}{e29d04a0f5e7b322508faca875d93e61}
+      \strng{authorfullhash}{5acc5e4ef2712b95c5d3233e33cb62fb}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Radiation and Plasma Medical Sciences}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Joint estimation of metal density and attenuation maps with pencil beam {XFET}}
+      \field{volume}{7}
+      \field{year}{2023}
+      \true{nocite}
+      \field{pages}{191\bibrangedash 202}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1109/trpms.2022.3201151
+      \endverb
+    \endentry
     \entry{2020-josaa}{article}{}
       \name{author}{4}{}{%
         {{hash=ca817a43a6798f657f69b8d86a7e394c}{%
@@ -52,8 +276,8 @@
       \strng{authornamehash}{e79a4bde62a0e9041c09f75b4038204e}
       \strng{authorfullhash}{9db3c3d5130da558f51559ef7ea7e9b7}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1520-8532}
@@ -103,11 +327,11 @@
       \strng{authornamehash}{e79a4bde62a0e9041c09f75b4038204e}
       \strng{authorfullhash}{9db3c3d5130da558f51559ef7ea7e9b7}
       \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{J. Opt. Soc. Am. A}
+      \field{journaltitle}{Journal of the Optical Society of America A}
       \field{month}{8}
       \field{number}{8}
       \field{title}{Spatio-angular fluorescence microscopy {II}. {P}araxial 4$f$ imaging}
@@ -154,11 +378,11 @@
       \strng{authornamehash}{e79a4bde62a0e9041c09f75b4038204e}
       \strng{authorfullhash}{9db3c3d5130da558f51559ef7ea7e9b7}
       \field{extraname}{3}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{J. Opt. Soc. Am. A}
+      \field{journaltitle}{Journal of the Optical Society of America A}
       \field{month}{8}
       \field{number}{8}
       \field{title}{Spatio-angular fluorescence microscopy {I}. {B}asic theory}
@@ -206,8 +430,8 @@
       \strng{authorbibnamehash}{cab29185e572ec89ba1739a1597eedeb}
       \strng{authornamehash}{95a5a8152a617241615d940dc72c78c3}
       \strng{authorfullhash}{cab29185e572ec89ba1739a1597eedeb}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Optics Express}
@@ -259,8 +483,8 @@
       \strng{authorbibnamehash}{8da3fca0b18231fc107a32532e202b9b}
       \strng{authornamehash}{18407f94ec44623ef083c59287ba2933}
       \strng{authorfullhash}{8da3fca0b18231fc107a32532e202b9b}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{F1000Research}
@@ -305,8 +529,8 @@
       \strng{authorbibnamehash}{ab09d5b89e547b28537d4f8d1633daf8}
       \strng{authornamehash}{a34310c8a2c11e0e24edcdce2c17917e}
       \strng{authorfullhash}{ab09d5b89e547b28537d4f8d1633daf8}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{American Journal of Kidney Diseases}

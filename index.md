@@ -8,13 +8,15 @@ Hi, I'm [Talon](https://www.google.com/books/edition/The_Hobbit/zEK0ewyRMn4C?hl=
 
 I'm an R&D engineer at the Chan Zuckerberg Biohub in San Francisco.
 
-I received my Ph.D. from the [University][chicago] [of Chicago's][chicago] [Graduate Program in][medphys] [Medical Physics][medphys] in 2020 where I developed spatio-angular microscopes with [Patrick La][patrick] [Rivi&egrave;re][patrick], [Rudolf Oldenbourg](http://www.mbl.edu/bell/current-faculty/oldenbourg-lab/), and [Hari Shroff](https://www.nibib.nih.gov/about-nibib/staff/hari-shroff).
+I received my Ph.D. from the [University][chicago] [of Chicago's][chicago] [Graduate Program in][medphys] [Medical Physics][medphys] in 2020 where I developed spatio-angular microscopes with [Patrick La][patrick] [Rivi&egrave;re][patrick], [Rudolf Oldenbourg][rudolf], and [Hari Shroff](https://www.hhmi.org/scientists/hari-shroff).
 
 I graduated from the [University of British Columbia][ubc] in 2015 with a B.A.Sc. in [Engineering Physics][fizz].
 
-I grew up in a family of apiarists: my parents operate [Scandia Honey](http://scandiahoney.com/) in Southern Alberta, my sister [sells honey](https://chandlerhoney.ca/) in Toronto, and my aunt and uncle operate [Jane's Honey Bees](https://www.janeshoneybees.com) in the Vancouver area. In my spare time I mostly read and [run](http://ultrasignup.com/results_participant.aspx?fname=Talon&lname=Chandler).
+I grew up in a family of apiarists: my parents operate [Scandia Honey](http://scandiahoney.com/) in Southern Alberta, my sister [sells honey](https://chandlerhoney.ca/) in Toronto, and my aunt and uncle operate [Jane's Honey Bees](https://www.janeshoneybees.com) in the Vancouver area.
 
 <span class="bold">News</span>
+
+<span class="bold">2024-03-12:</span> Our polarized light-sheet microscopy paper is live on [the bioarxiv](https://www.biorxiv.org/content/10.1101/2024.03.09.584243v1) and on [twitter/X](https://twitter.com/TalonChandler/status/1767717624002330671).
 
 <span class="bold">2022-03-14:</span> I've moved to San Francisco and joined Shalin Mehta's group at the [Chan Zuckerberg Biohub](https://www.czbiohub.org/).
 
@@ -24,7 +26,7 @@ I grew up in a family of apiarists: my parents operate [Scandia Honey](http://sc
 
 <span class="bold">2020-09-01:</span> I've completed my Ph.D., and I've [posted my dissertation]({{ site.url }}/papers/2020-chandler-dissertation.pdf) [(21 MB)]({{ site.url }}/papers/2020-chandler-dissertation.pdf). I'll be finishing my projects in Chicago while I interview. 
 
-<span class="bold">2020-08-31:</span> Our paper on angular diffusion in spatio-angular fluorescence microscopy appeared [online](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-9-1465). 
+<span class="bold">2020-08-31:</span> Our paper on angular diffusion in spatio-angular fluorescence microscopy appeared [online](https://www.osapublishing.org/josaa/abstract.cfm?uri=josaa-37-9-1465).
 
 <span class="bold">2020-01-24:</span> I've [posted a preprint](https://arxiv.org/abs/2001.09232) on angular diffusion in spatio-angular fluorescence microscopy with Hari Shroff, Rudolf Oldenbourg, and Patrick La Rivi&egrave;re.
 
@@ -55,6 +57,7 @@ I grew up in a family of apiarists: my parents operate [Scandia Honey](http://sc
 [medphys]: http://medicalphysics.uchicago.edu/
 [chicago]: https://www.uchicago.edu/
 [patrick]: https://radiology.uchicago.edu/directory/patrick-la-riviere
+[rudolf]: https://www.mbl.edu/research/research-centers/eugene-bell-center/bell-center-faculty-and-staff/oldenbourg-lab
 [mbl]: http://www.mbl.edu/
 [ubc]: https://www.ubc.ca/
 [fizz]: http://www.engphys.ubc.ca/
